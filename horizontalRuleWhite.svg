@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 763 19" width="763" height="19">
+	<title>horizontalRule (1)-svg</title>
+	<defs>
+		<image  width="763" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAvsAAAATAQMAAAA0x1DLAAAAAXNSR0IB2cksfwAAAAZQTFRF7R8k////wuOvuwAAAAJ0Uk5TAP9bkSK1AAAAvUlEQVR4nGNkIB4w/oPQHwVI0USkuv8YIgcdqGQBptFI4KECRRbwfyBoPdgJTKRbwPyHKKORwU8OIi2obyDZbCSAETPIFpDhbBwAKZ1BLbA/QC2z0W1hhCVu2oD/TIw0cTwM/GWBBhGR6ZEkAI1upEiWf0A1wxsb4Ez0ZEpZImXALKiwZjRyo+WhAqYYzqKC/QdJZiMFCpEWQGSJSsN4zSCiuMZjC95ijmgLYIahch8qEKeNeAvg1uAoNnEAAMb3JRRuIyuhAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<g id="Layer_2">
+		<g id="horizontalRule">
+			<use id="mainShape" href="#img1" x="0" y="0"/>
+		</g>
+	</g>
+</svg>
